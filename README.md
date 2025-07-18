@@ -40,8 +40,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd absensi
+git clone https://github.com/yaqinzz/FULLSTACK-DEV-FLEETIFY-AHMAD-AINUL-YAQIN-JULI2025.git
+cd FULLSTACK-DEV-FLEETIFY-AHMAD-AINUL-YAQIN-JULI2025
 ```
 
 ### 2. Install PHP Dependencies

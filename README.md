@@ -9,7 +9,7 @@ A modern, full-featured employee attendance management system built with Laravel
 -   **Create, Read, Update, Delete (CRUD)** departments
 -   **Working Hours Configuration** - Set max clock-in and clock-out times per department
 -   **Employee Count Tracking** - View how many employees are in each department
--   **Modern UI** with gradient cards and responsive design
+
 
 ### 👥 Employee Management
 
@@ -17,7 +17,7 @@ A modern, full-featured employee attendance management system built with Laravel
 -   **Department Association** - Link employees to specific departments
 -   **Employee Avatar System** - Automatic avatar generation with initials
 -   **Search and Filter** capabilities
--   **Responsive Table Design** with hover effects
+
 
 ### ⏰ Attendance Tracking
 
@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
 -   PHP 8.2 or higher
 -   Composer
 -   Node.js & NPM
--   MySQL/MariaDB
+-   MySQL
 -   Git
 
 ## 🔧 Installation
@@ -154,6 +154,9 @@ Visit `http://localhost:8000` in your browser.
 
 #### Creating a Department
 
+<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/b5c3074c-a00b-45a2-9cbd-1542d1c595d5" />
+
+
 1. Navigate to **Departments** from the main menu
 2. Click **"Add Department"** button
 3. Fill in the form:
@@ -164,6 +167,9 @@ Visit `http://localhost:8000` in your browser.
 
 #### Managing Departments
 
+<img width="1920" height="1002" alt="image" src="https://github.com/user-attachments/assets/5fca9232-d74a-45ee-b232-9db537cd55f6" />
+
+
 -   **View**: All departments are listed in a modern table format
 -   **Edit**: Click the blue "Edit" button to modify department details
 -   **Delete**: Click the red "Delete" button (with SweetAlert confirmation)
@@ -171,6 +177,9 @@ Visit `http://localhost:8000` in your browser.
 ### Employee Management
 
 #### Adding Employees
+
+<img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/5cd03bc7-cc6a-4fe5-a18a-dad830e5ec30" />
+
 
 1. Go to **Employees** section
 2. Click **"Add Employee"**
@@ -182,11 +191,16 @@ Visit `http://localhost:8000` in your browser.
 
 #### Employee Features
 
+<img width="1920" height="1382" alt="image" src="https://github.com/user-attachments/assets/e362b561-0a52-4031-bb60-42f633216326" />
+
 -   **Avatar System**: Automatic avatar generation with employee initials
 -   **Department Badges**: Visual department assignment
 -   **Search & Filter**: Easy employee lookup
 
 ### Attendance Tracking
+
+<img width="1920" height="1537" alt="image" src="https://github.com/user-attachments/assets/8ce61f7b-4f04-456e-b174-023f654bf919" />
+
 
 #### Clock In/Out Process
 
